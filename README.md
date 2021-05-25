@@ -21,7 +21,7 @@ This repo consist of a basic example on how to do that.
 To get started with the code on this repo, you need to either *clone* or *download* this repo into your machine just as shown below;
 
 ```bash
-git clone git@gitlab.com:mountblue/cohort-16-python/gopinath_v/dataproject-python.git
+git clone git@gitlab.com:mountblue/cohort-16-python/gopinath_v/dataproject-javascript.git
 ```
 
 ## Running the App
@@ -51,7 +51,7 @@ source mypython/bin/activate
 ## step2
   
 ```bash
-$-> cd dataproject-python
+$-> cd dataproject-javascript
 $ cd dataproject-javascript-> python3 total_runs.py
 
 ```
